@@ -1,3 +1,3 @@
-# KDD_-anonymous_62
-The anonymous repository for KDD submission 62.
+# Anonymous
+The anonymous repository for KDD submission.
 Code will be released soon.
